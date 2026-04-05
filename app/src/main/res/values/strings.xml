@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bratislava Weather</string>
+    <string name="loading">Loading weather...</string>
+    <string name="error_message">Unable to load weather data</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="day_after_tomorrow">Day After Tomorrow</string>
+    <string name="bratislava">Bratislava</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="rain_probability">Rain Probability</string>
+    <string name="celsius">°C</string>
+    <string name="kmh">km/h</string>
+    <string name="percent">%</string>
+    <string name="network_error">Network error. Check your connection.</string>
+    <string name="api_error">Failed to fetch weather data.</string>
+</resources>

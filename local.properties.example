@@ -1,0 +1,10 @@
+# This file is used to store local settings
+# Copy this file to local.properties and fill in your API key
+
+# OpenWeatherMap API Key
+# Get one from: https://openweathermap.org/api
+openweather.api.key=YOUR_API_KEY_HERE
+
+# Android SDK location (usually auto-detected, but you can set it manually)
+# sdk.dir=/Users/username/Library/Android/sdk  (Mac)
+# sdk.dir=C:\\Users\\username\\AppData\\Local\\Android\\Sdk  (Windows)
